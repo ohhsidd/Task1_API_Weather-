@@ -28,3 +28,24 @@ This project fetches real-time weather data for **Lucknow, Uttar Pradesh** using
 
 ```bash
 pip install requests matplotlib
+
+
+2.Run the Python script:
+
+python lucknow_weather.py
+
+
+3. Output:
+
+. Weather info will be printed in the terminal
+
+. A bar chart will open showing temperature and humidity
+
+. A file named lucknow_weather_chart.png will be saved in your folder
+
+
+
+
+
+
+
